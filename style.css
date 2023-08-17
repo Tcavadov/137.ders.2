@@ -1,0 +1,16 @@
+.basliq {
+  text-align: center;
+}
+
+.cards {
+  display: flex;
+  max-width: 100%;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: space-between;
+  padding: 44px;
+}
+
+.card {
+  width: 33%;
+}/*# sourceMappingURL=style.css.map */
